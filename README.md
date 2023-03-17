@@ -2,7 +2,7 @@
 
 Hi, I'm Thiago Sales , a Web Developer 🚀 from Brazil 🇧🇷.
 
-- 🔭 I’m currently working on a big Laravel Website
+- 🔭 I’m currently working at Canaltech 
 - 🌱 I’m currently learning React and Node.js
 - 👯 I’m looking to collaborate on good projects to improve my skills
 <!-- - 🤔 I’m looking for help with ... -->
