@@ -2,7 +2,7 @@
 
 Hi, I'm Thiago Sales , a Web Developer 🚀 from Brazil 🇧🇷.
 
-- 🔭 I'm currently focusing on becoming an expert in Laravel
+- 🔭 I'm currently focusing on becoming an expert in Web Development
 <!-- - 🌱 I’m currently learning and developing projects to my Git -->
 - 👯 I’m looking to collaborate on good projects to improve my skills
 <!-- - 🤔 I’m looking for help with ... -->
